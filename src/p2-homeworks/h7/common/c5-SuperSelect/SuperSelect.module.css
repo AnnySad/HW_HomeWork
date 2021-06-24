@@ -1,0 +1,36 @@
+.select {
+    width: 100px;
+    padding: 5px;
+    padding-right: 50px;
+
+    cursor: pointer;
+    appearance: none;
+    background-color: yellow;
+/*
+    background-repeat: no-repeat, repeat;
+    background-size: 65em auto, 100%;*/
+
+    border: 2px inset rgb(118, 118, 118);
+    color: orangered;
+}
+
+.select:focus{
+    outline: none;
+    border: #99ff99 solid 2px;
+}
+
+.option {
+    color: #9793b9;
+    background: #cfc9c9;
+}
+
+.option:checked{
+    background: lime;
+    color: white;
+}
+
+.option:hover{
+    box-shadow: 0 0 10px 100px orange inset;
+    transition: all 2s ease-in-out;
+    background: red;
+}
