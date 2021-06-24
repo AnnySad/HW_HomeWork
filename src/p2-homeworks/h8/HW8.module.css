@@ -1,0 +1,14 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 190px;
+
+    margin-left: 10px;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+
+    margin-left: 10px;
+}
