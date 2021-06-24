@@ -1,0 +1,19 @@
+.clock{
+    border:  2px solid crimson;
+    width: 100px;
+    height: 60px;
+    border-radius: 5px;
+}
+
+.clock:hover{
+    color: #8136ec;
+    cursor: pointer;
+}
+
+.button{
+    display: flex;
+    justify-content: space-between;
+    width: 90px;
+
+    margin-center: 10px;
+}
