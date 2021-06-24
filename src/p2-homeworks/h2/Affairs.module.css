@@ -1,0 +1,24 @@
+.Affairs {
+    padding: 30px;
+    border-radius: 4px;
+
+}
+
+.button {
+    height: 20px;
+    width: 20px;
+    border-color: #c2e254 #9bb838 #9bb838 #c2e254;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    width: auto;
+    border-radius: 4px;
+    margin-left: 20px;
+
+    color: #000000;
+    font-size: 15px;
+    font-family: helvetica, serif;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
