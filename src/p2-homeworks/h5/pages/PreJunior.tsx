@@ -8,11 +8,11 @@ import HW6 from "../../h6/HW6";
 function PreJunior() {
     return (
         <div>
+            <div className='size'>
+            <div className='title'>Наполнение для PreJunior</div></div>
             <HW1/>
             <HW2/>
             <HW3/>
-            <div className='size'>
-                <div className='title'>Наполнение для PreJunior</div></div>
             <HW4/>
             <HW6/>
 
